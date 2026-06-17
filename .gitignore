@@ -1,0 +1,42 @@
+# 临时脚本和数据文件
+check_*.js
+verify_*.js
+extract.js
+assign_tags.js
+fix_collapsed.js
+export_full.js
+optimize_tags*.js
+update_colors.js
+cleanup_otter.js
+verify.js
+final_verify.js
+*_check.txt
+*_list.txt
+full_nodes.txt
+nodes_list.txt
+data_dump.json
+data_parsed.json
+verify_result.txt
+verify_tags.txt
+check_issues.txt
+check_l1.txt
+check_np.txt
+
+# 备份文件
+* - 副本.*
+*.bak
+*.backup
+
+# 依赖
+node_modules/
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
