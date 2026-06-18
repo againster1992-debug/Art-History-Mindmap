@@ -21,8 +21,24 @@ verify_tags.txt
 check_issues.txt
 check_l1.txt
 check_np.txt
+_*.py
+_*.ps1
+_*.json
+_*.js
+_*.txt
+analyze_layout.js
+cmp_fns.js
+find_markers.js
+fit_check.js
+visible_check.js
+read_otter.ps1
+debug.log
+duplicates.txt
+otter.png
+liu.jpg
 
 # 备份文件
+backup/
 * - 副本.*
 *.bak
 *.backup
